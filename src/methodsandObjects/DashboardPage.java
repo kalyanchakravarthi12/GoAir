@@ -24,8 +24,8 @@ public class DashboardPage {
 
 	
 		
-	
-		By watchlistLink=By.linkText("Watchlists");
+	  //  System
+            By watchlistLink=By.linkText("Watchlists");
 	    By Volume_scanner =By.linkText("Volume_Scanner");
 	    By WEEKLY_20=By.linkText("WEEKLY_20");
 	    By textBx=By.xpath("//*[@id='home']/form/div/input[1]");
